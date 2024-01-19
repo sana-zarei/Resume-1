@@ -7,5 +7,5 @@
 - Includes a light and dark theme.
 - Export resume website to PDF.
 
-![preview img in Desktop Mode + Light Theme](Screenshot/ScreenShot1.jpg)
-![preview img in Phone Mode + Light Theme](Screenshot/ScreenShot2.png)
+[![preview img in Desktop Mode + Light Theme](Screenshot/ScreenShot1.jpg)](Screenshot/ScreenShot1.jpg)
+[![preview img in Phone Mode + Light Theme](Screenshot/ScreenShot2.png)](Screenshot/ScreenShot2.png)
