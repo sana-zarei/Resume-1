@@ -8,8 +8,10 @@
 - Export resume website to PDF.
 
 <p align="center">
-  <img src="Screenshot/ScreenShot1.jpg" width="50%" alt="Desktop Mode + Light Theme">
+    <strong>Desktop Mode + Light Theme</strong>
+    <img src="Screenshot/ScreenShot1.jpg" width="50%" alt="Desktop Mode + Light Theme">
 </p>
 <p align="center">
-  <img src="Screenshot/ScreenShot2.png" width="50%" alt="Phone Mode + Light Theme">
+    <strong>Phone Mode + Light Theme</strong>
+    <img src="Screenshot/ScreenShot2.png" width="50%" alt="Phone Mode + Light Theme">
 </p>
