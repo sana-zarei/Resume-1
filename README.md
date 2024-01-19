@@ -8,4 +8,4 @@
 - Export resume website to PDF.
 
 ![preview img in Desktop Mode + Light Theme](Screenshot/ScreenShot1.jpg)
-![preview img in Phone Mode + Light Theme](Screenshot/ScreenShot2.jpg)
+![preview img in Phone Mode + Light Theme](Screenshot/ScreenShot2.png)
