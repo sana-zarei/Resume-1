@@ -7,6 +7,13 @@
 - Includes a light and dark theme.
 - Export resume website to PDF.
 
+**To-Do List:**
+1. Fix PDF Export Issue
+2. Optimize for SEO
+3. Add a Portfolio Section
+4. Optimize Performance
+5. Regularly Update Content
+
 <p align="center">
   <strong>Desktop Mode + Light Theme</strong>
 </p>
