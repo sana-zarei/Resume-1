@@ -7,4 +7,4 @@
 - Includes a light and dark theme.
 - Export resume website to PDF.
 
-![preview img](/ScreenShot1)
+![preview img](/ScreenShot1.jpg)
