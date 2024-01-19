@@ -10,10 +10,10 @@
 **To-Do List:**
 <ul style="list-style-type:none;">
     <li><input type="checkbox" checked disabled> - [x] Publish Initial Version of the Website </li>
-    <li><input type="checkbox" checked disabled> - [ ] Fix PDF Export Issue </li>
-    <li><input type="checkbox" checked disabled> - [ ] Optimize for SEO </li>
-    <li><input type="checkbox" checked disabled> - [ ] Optimize Performance </li>
-    <li><input type="checkbox" checked disabled> - [ ] Regularly Update Content </li>
+    <li><input type="checkbox" checked> - [ ] Fix PDF Export Issue </li>
+    <li><input type="checkbox" checked> - [ ] Optimize for SEO </li>
+    <li><input type="checkbox" checked> - [ ] Optimize Performance </li>
+    <li><input type="checkbox" checked> - [ ] Regularly Update Content </li>
 </ul>
 
 <p align="center">
