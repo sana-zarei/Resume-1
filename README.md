@@ -8,13 +8,12 @@
 - Export resume website to PDF.
 
 **To-Do List:**
-<ul style="list-style-type:none;">
-    <li><input type="checkbox" checked disabled> - [ ] - Publish Initial Version of the Website</li>
-    <li><input type="checkbox" disabled> Fix PDF Export Issue</li>
-    <li><input type="checkbox" disabled> Optimize for SEO</li>
-    <li><input type="checkbox" disabled> Optimize Performance</li>
-    <li><input type="checkbox" disabled> Regularly Update Content</li>
-</ul>
+    - [ ] Publish Initial Version of the Website
+    - [ ] Fix PDF Export Issue
+    - [ ] Optimize for SEO
+    - [ ] Optimize Performance
+    - [ ] Regularly Update Content
+
 
 <p align="center">
   <strong>Desktop Mode + Light Theme</strong>
