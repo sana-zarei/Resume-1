@@ -11,6 +11,7 @@
 **To Do List :**
 <ul style="list-style-type:none;">
     <li><input type="checkbox" checked disabled> - [x] Publish Initial Version of the Website </li>
+    <li><input type="checkbox" checked> - [x] Automatic Light and Dark Theme Base on a Time </li>
     <li><input type="checkbox" checked> - [ ] Fix PDF Export Issue </li>
     <li><input type="checkbox" checked> - [ ] Optimize for SEO </li>
     <li><input type="checkbox" checked> - [ ] Optimize Performance </li>
